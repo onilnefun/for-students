@@ -1,0 +1,8 @@
+{
+  "name": "GyanAI - Smart Study Assistant",
+  "description": "A powerful AI tutor for Bangla, English, Math, Science, and more. Upload images or ask questions to get instant help.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
